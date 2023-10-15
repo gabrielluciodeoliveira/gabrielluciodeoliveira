@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sejam bem-vindo ao meu perfil, onde deixo alguns projetos dos quais desenvolvo ao longo dos meus estudos com minha equipe e alguns dele solo.👋
 
 <!--
 **gabrielluciodeoliveira/gabrielluciodeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
